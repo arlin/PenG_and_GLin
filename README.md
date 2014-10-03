@@ -5,11 +5,13 @@ This is the README file for Norris, et al (in prep).  The definitive, updated ve
 
 ## CONTACT
 
-All questions or requests for further information may be addressed to Ryan Norris (ryanwnorris@gmail.com) at [affiliation].  
+All questions or requests for further information may be addressed to Ryan Norris (ryanwnorris@gmail.com), Department of Evolution, Ecology and Organismal Biology, Ohio State University, 4240 Campus Dr., Lima, OH 45804, USA.  
 
 ## CONTENTS
 
-[Narrative description of contents] 
+Norris, et al (in review) present 2 new methods for imputing (from fossil data) informed Bayesian priors for phylogeny calibration.  The methods are called PenG (penultimate gap) and GLin (ghost lineage length).  The study includes a comparative evaluation of PenG and GLin with several methods, based on simulations.  
+
+This archive contains simulated data and the results of applying various calibration methods.  It consists of a large number of small files in a hierarchy of directories.  For each of 3 given tree shapes, there are 1000 sub-directories with replicate simulations.  For further information, consult the Methods section of Norris, et al.  
 
 ## LABELS AND ABBREVIATIONS
 
@@ -25,7 +27,7 @@ There are a lot of abbreviations in the file names, so we'll present the list of
 * sym : symmetric tree shape (((A,B),(C,D)),((E,F),(G,H)))
  
 ## FILES
-The files here contain two sets of results, a minor set of results concerning implementations of the method of Dornburg, et al., and a major set of results concerning the comparative evaluation of PenG, GLin, and other methods for inferring divergence times. 
+The files here contain two sets of results, a minor set of results concerning implementations of the method of Dornburg, et al., and a major set of results concerning the comparative evaluation of PenG, GLin, and other methods for inferring divergence times.
 
 ### Comparative evaluation.  
 
